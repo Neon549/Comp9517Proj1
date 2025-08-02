@@ -1,0 +1,15 @@
+
+=== Model Evaluation Report ===
+
+Overall Metrics:
+- Mean IoU: 0.5414
+- Pixel Accuracy: 0.9810
+- Mean Class Accuracy: 0.5551
+
+IoU per Class:
+- Background: 0.9810
+- Dead Tree: 0.1018
+
+Accuracy per Class:
+- Background: 0.9980
+- Dead Tree: 0.1121
